@@ -1,0 +1,6 @@
+com\example\registrationapi\RegistrationapiApplication.class
+com\example\registrationapi\user\UserController.class
+com\example\registrationapi\user\Status.class
+com\example\registrationapi\user\Valid.class
+com\example\registrationapi\user\UserRepository.class
+com\example\registrationapi\user\User.class
