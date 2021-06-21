@@ -4,7 +4,6 @@ resources:
     configuration:
       gitProvider: githubpipeline                      # <-- replace with your integration
       path: Anjanalizbeth/Registrationapi              # <-- replace with your repository name
-      autoSyncResourceIfOutdated: true
       branches:
         include: master
 
