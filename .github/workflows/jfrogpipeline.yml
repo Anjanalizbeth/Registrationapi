@@ -12,7 +12,7 @@ resources:
     configuration:
       registry: arifactorypipeline                               # <-- replace with your artifactory integration
       sourceRepository: anjanaregapi               # <-- required if registry is Artifactory
-      imageName: sreyo.jfrog.io/anjanaregapi/springbootregapi     # < -- replace with your image path and name
+      imageName: sreyo.jfrog.io/anjanaregapi/dockerbuildpush     # < -- replace with your image path and name
       imageTag: latest
       autoPull: true
       
