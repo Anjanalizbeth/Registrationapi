@@ -3,7 +3,7 @@ resources:
     type: GitRepo
     configuration:
       gitProvider: githubpipeline                      # <-- replace with your integration
-      path: Anjanalizbeth/Registrationapi              # <-- replace with your repository name
+      path: Anjanalizbeth/Registrationapi              # <-- replace with your repositoryname
       branches:
         include: master
 
